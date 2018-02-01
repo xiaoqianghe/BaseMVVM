@@ -6,9 +6,10 @@ import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
+
 import java.util.concurrent.TimeUnit;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
 import rx.functions.Action1;
 import rx.subjects.PublishSubject;
 

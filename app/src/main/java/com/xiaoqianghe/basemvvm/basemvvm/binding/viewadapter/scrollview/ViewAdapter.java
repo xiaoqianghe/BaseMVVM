@@ -5,7 +5,8 @@ import android.support.v4.widget.NestedScrollView;
 import android.view.ViewTreeObserver;
 import android.widget.ScrollView;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
+
 
 /**
  * Created by goldze on 2017/6/18.

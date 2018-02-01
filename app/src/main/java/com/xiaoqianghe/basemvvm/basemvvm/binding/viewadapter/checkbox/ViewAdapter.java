@@ -4,7 +4,8 @@ import android.databinding.BindingAdapter;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
+
 
 /**
  * Created by goldze on 2017/6/16.

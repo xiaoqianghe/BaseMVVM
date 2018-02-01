@@ -1,8 +1,10 @@
 package com.xiaoqianghe.basemvvm.basemvvm.http.download;
 
+import com.xiaoqianghe.basemvvm.basemvvm.bus.RxBus;
+
 import java.io.IOException;
 
-import me.goldze.mvvmhabit.bus.RxBus;
+
 import okhttp3.MediaType;
 import okhttp3.ResponseBody;
 import okio.Buffer;

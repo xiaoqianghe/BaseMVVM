@@ -7,10 +7,12 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
+
 
 /**
  * Created by goldze on 2017/6/18.

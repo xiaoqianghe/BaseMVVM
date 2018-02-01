@@ -3,7 +3,7 @@ package com.xiaoqianghe.basemvvm.basemvvm.binding.viewadapter.swiperefresh;
 import android.databinding.BindingAdapter;
 import android.support.v4.widget.SwipeRefreshLayout;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
 
 
 /**

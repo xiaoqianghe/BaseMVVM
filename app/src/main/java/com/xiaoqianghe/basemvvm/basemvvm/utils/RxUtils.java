@@ -4,9 +4,10 @@ import android.content.Context;
 
 import com.trello.rxlifecycle.LifecycleProvider;
 import com.trello.rxlifecycle.LifecycleTransformer;
+import com.xiaoqianghe.basemvvm.basemvvm.http.BaseResponse;
+import com.xiaoqianghe.basemvvm.basemvvm.http.ExceptionHandle;
 
-import me.goldze.mvvmhabit.http.BaseResponse;
-import me.goldze.mvvmhabit.http.ExceptionHandle;
+
 import rx.Observable;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Func1;

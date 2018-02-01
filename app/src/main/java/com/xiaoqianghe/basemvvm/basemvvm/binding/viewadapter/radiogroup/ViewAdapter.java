@@ -5,7 +5,8 @@ import android.support.annotation.IdRes;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
+
 
 /**
  * Created by goldze on 2017/6/18.

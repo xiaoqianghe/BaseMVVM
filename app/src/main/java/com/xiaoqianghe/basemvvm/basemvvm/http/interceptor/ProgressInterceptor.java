@@ -1,8 +1,9 @@
 package com.xiaoqianghe.basemvvm.basemvvm.http.interceptor;
 
+import com.xiaoqianghe.basemvvm.basemvvm.http.download.ProgressResponseBody;
+
 import java.io.IOException;
 
-import me.goldze.mvvmhabit.http.download.ProgressResponseBody;
 import okhttp3.Interceptor;
 import okhttp3.Response;
 

@@ -4,9 +4,10 @@ import android.app.Activity;
 import android.content.Context;
 import android.widget.Toast;
 
+import com.xiaoqianghe.basemvvm.basemvvm.http.NetworkUtil;
+
 import java.io.IOException;
 
-import me.goldze.mvvmhabit.http.NetworkUtil;
 import okhttp3.CacheControl;
 import okhttp3.Interceptor;
 import okhttp3.Request;

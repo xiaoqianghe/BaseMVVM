@@ -4,10 +4,10 @@ import android.databinding.BindingAdapter;
 import android.view.View;
 
 import com.jakewharton.rxbinding.view.RxView;
+import com.xiaoqianghe.basemvvm.basemvvm.binding.command.BindingCommand;
 
 import java.util.concurrent.TimeUnit;
 
-import me.goldze.mvvmhabit.binding.command.BindingCommand;
 import rx.functions.Action1;
 
 /**

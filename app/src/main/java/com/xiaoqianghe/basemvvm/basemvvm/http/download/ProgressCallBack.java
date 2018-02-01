@@ -3,14 +3,15 @@ package com.xiaoqianghe.basemvvm.basemvvm.http.download;
 import android.os.Handler;
 import android.util.Log;
 
+import com.xiaoqianghe.basemvvm.basemvvm.bus.RxBus;
+import com.xiaoqianghe.basemvvm.basemvvm.bus.RxSubscriptions;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-import me.goldze.mvvmhabit.bus.RxBus;
-import me.goldze.mvvmhabit.bus.RxSubscriptions;
 import okhttp3.ResponseBody;
 import rx.Subscription;
 import rx.functions.Action1;

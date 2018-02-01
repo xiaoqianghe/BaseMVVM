@@ -1,10 +1,12 @@
 package com.xiaoqianghe.basemvvm.basemvvm.http;
 
+import com.xiaoqianghe.basemvvm.basemvvm.http.download.DownLoadSubscriber;
+import com.xiaoqianghe.basemvvm.basemvvm.http.download.ProgressCallBack;
+import com.xiaoqianghe.basemvvm.basemvvm.http.interceptor.ProgressInterceptor;
+
 import java.util.concurrent.TimeUnit;
 
-import me.goldze.mvvmhabit.http.download.DownLoadSubscriber;
-import me.goldze.mvvmhabit.http.download.ProgressCallBack;
-import me.goldze.mvvmhabit.http.interceptor.ProgressInterceptor;
+
 import okhttp3.OkHttpClient;
 import okhttp3.ResponseBody;
 import retrofit2.Retrofit;

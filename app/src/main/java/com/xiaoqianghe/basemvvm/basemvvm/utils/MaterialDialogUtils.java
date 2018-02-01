@@ -13,10 +13,11 @@ import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.GravityEnum;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.Theme;
+import com.xiaoqianghe.basemvvm.basemvvm.R;
 
 import java.util.List;
 
-import me.goldze.mvvmhabit.R;
+
 
 
 /**
